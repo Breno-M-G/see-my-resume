@@ -4,20 +4,21 @@ Portfolio repository of my professional career in IT / Repositório demonstrativ
 
 ``` mermaid
 classDiagram
-Class01 <|-- AveryLongClass : Cool
-<<Interface>> Class01
-Class09 --> C2 : Where am I?
-Class09 --* C3
-Class09 --|> Class07
+Academic_History <|-- AveryLongClass : Cool
+<<interface>> Academic_History
+Professional_Experience--> C2 : Where am i?
+Extra_Certificates --* C3
+Extra_Certificates --|> Class07
 Class07 : equals()
 Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-class Class10 {
-  <<service>>
+Basic : size()
+class Intermediate {
+  >>service>>
   int id
   size()
+}
+class Advanced { 
+
 }
 
 ```
