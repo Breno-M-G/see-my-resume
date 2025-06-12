@@ -38,4 +38,9 @@ journey
         Net Beans: 6: Intermediate
         IntelliJ: 4 : Beginner
         Google Colab: 3: Intermediate
+        Arduino IDE: 3: Basic
+    section Languages
+        Portuguese:7 : Fluent
+        English: 7 : Fluent
+        Spanish: 3: Intermediate
 ```
