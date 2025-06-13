@@ -16,10 +16,11 @@ Professional_Experience --> WorkP2: Worked Previously
 
 WorkP1 : Ctrl+Play
 WorkP1 : Entry--April/08/2025
-WorkP1 : RolePerformed_System internship in systems analysis and development()
+WorkP1 : RolePerformed = System internship in systems analysis and development()
 
 WorkP2 : SilkPress
-WorkP2 : 
+WorkP2 : Entry--08/15/2024 Terminated--02/21/2025
+WorkP2 : RolePerformed = Storage Manager()
 
 
 IDE Knowledge --> Basic
@@ -39,12 +40,6 @@ note for Advanced "In Construction..."
 class Advanced { 
  
 }
-
-Extra_Certificates --* C3
-Extra_Certificates --* Class07
-Class07 : equals()
-Class07 : Object[] elementData
-
 
 ```
 ------------
