@@ -4,22 +4,38 @@ Portfolio repository of my professional career in IT / Repositório demonstrativ
 
 ``` mermaid
 classDiagram
-Academic_History <|-- AveryLongClass : Cool
+
+Academic_History --* Associate_Degree_in
+Associate_Degree_in : Systems Analysis and Development[Institution_Multivix] --- Status_Pursuing
+Associate_Degree_in : The Odin Project "Foundations Course"[Community Academic Project] --- Status_Pursuing
+Associate_Degree_in : System Development [Institution_SENAI] --- Status(Complete)
+Associate_Degree_in : Psicologist [Institution_FAVI] --- Status(Complete)
 <<interface>> Academic_History
 Professional_Experience--> C2 : Where am i?
+
 Extra_Certificates --* C3
-Extra_Certificates --|> Class07
+Extra_Certificates --* Class07
 Class07 : equals()
 Class07 : Object[] elementData
-Basic : size()
-class Intermediate {
-  >>service>>
-  int id
-  size()
-}
-class Advanced { 
 
+IDE Knowledge --> Basic
+IDE Knowledge --> Intermediate
+IDE Knowledge --> Advanced
+
+class Basic {
+    Pycharm
+    Arduino IDE
+    Google Colab()
+}   
+class Intermediate {
+   Net Beans()   
+   IntelliJ 
 }
+note for Advanced "In Construction..."
+class Advanced { 
+ 
+}
+
 
 ```
 ------------
