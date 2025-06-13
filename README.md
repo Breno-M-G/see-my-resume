@@ -11,12 +11,16 @@ Associate_Degree_in : The Odin Project "Foundations Course"[Community Academic P
 Associate_Degree_in : System Development [Institution_SENAI] --- Status(Complete)
 Associate_Degree_in : Psicologist [Institution_FAVI] --- Status(Complete)
 <<interface>> Academic_History
-Professional_Experience--> C2 : Where am i?
+Professional_Experience--> WorkP1 : Working Currently
+Professional_Experience --> WorkP2: Worked Previously
 
-Extra_Certificates --* C3
-Extra_Certificates --* Class07
-Class07 : equals()
-Class07 : Object[] elementData
+WorkP1 : Ctrl+Play
+WorkP1 : Entry--April/08/2025
+WorkP1 : RolePerformed_System internship in systems analysis and development()
+
+WorkP2 : SilkPress
+WorkP2 : 
+
 
 IDE Knowledge --> Basic
 IDE Knowledge --> Intermediate
@@ -36,6 +40,11 @@ class Advanced {
  
 }
 
+Extra_Certificates --* C3
+Extra_Certificates --* Class07
+Class07 : equals()
+Class07 : Object[] elementData
+
 
 ```
 ------------
@@ -47,6 +56,7 @@ journey
       Java: 6: Intermediate
       Spring Boot: 3: Beginner 
       Python: 3 : Beginner
+      C++: 3: Beginner
     section Front-End Skills💻
       HTML: 4: Beginner
       CSS: 3: Beginner
