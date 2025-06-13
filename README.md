@@ -61,3 +61,15 @@ journey
         English: 7 : Fluent
         Spanish: 3: Intermediate
 ```
+----
+# 🥧Soft Skills Pie/Habilidades Sociais
+```mermaid
+pie title Soft Skills
+    "Mentorship" : 2000
+    "Documentation Skills" : 2000
+    "Decision Making" : 2000
+    "Problem Solving" : 2000
+    "Stress Management" : 2000
+    "Goal Setting" : 2000
+    "Clear and Concise Expression" : 2000 
+```
