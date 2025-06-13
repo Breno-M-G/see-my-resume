@@ -49,8 +49,8 @@ journey
     title My Skills in Bars📊
      section Back-End Skills🧠
       Java: 6: Intermediate
-      Spring Boot: 3: Beginner 
-      Python: 3 : Beginner
+      Spring Boot: 4: Beginner 
+      Python: 4 : Beginner
       C++: 3: Beginner
     section Front-End Skills💻
       HTML: 4: Beginner
@@ -59,7 +59,7 @@ journey
     section Languages📖
         Portuguese:7 : Fluent
         English: 7 : Fluent
-        Spanish: 3: Intermediate
+        Spanish: 5: Intermediate
 ```
 ----
 # 🥧Soft Skills Pie/Habilidades Sociais
