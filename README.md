@@ -73,3 +73,10 @@ pie title Soft Skills
     "Goal Setting" : 2000
     "Clear and Concise Expression" : 2000 
 ```
+# Contact info/ Informações para contato 📧
+
+📞 (27) 98833-4250
+
+📩 brenomgoulart@hotmail.com
+
+🤖**Resume_Build V1.0**
