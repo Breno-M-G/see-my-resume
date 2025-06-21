@@ -1,5 +1,5 @@
-# 🌊Resume in Flow chart / Curriculum em diagrama.
-Portfolio repository of my professional career in IT / Repositório demonstrativo da minha trajetória profissional na área de TI.
+# 🌊Resume in Flow chart.
+Portfolio repository of my professional career in IT 
 :----:
 
 ``` mermaid
@@ -65,7 +65,7 @@ style Academic_History fill:#E0D475,stroke:#103,stroke-width:6px
 
 ```
 ------------
-# 📚Showcase of skills / Demonstração de Habilidades.
+# 📚Showcase of skills 
 ``` mermaid
 journey
     title My Skills in Bars📊
@@ -84,7 +84,7 @@ journey
         Spanish: 5: Intermediate
 ```
 ----
-# 🥧Soft Skills Pie/Habilidades Sociais
+# 🥧Soft Skills Pie
 ```mermaid
 pie title Soft Skills
     "Mentorship" : 2000
@@ -95,10 +95,10 @@ pie title Soft Skills
     "Goal Setting" : 2000
     "Clear and Concise Expression" : 2000 
 ```
-# Contact info/ Informações para contato 📧
+# Contact info 📧
 
 📞 (27) 98833-4250
 
 📩 brenomgoulart@hotmail.com
 
-🤖**Resume_Build V1.0**
+🤖**Resume_Build V1.1**
