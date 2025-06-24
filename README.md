@@ -1,6 +1,13 @@
 # 🌊Resume in Flow chart.
-Portfolio repository of my professional career in IT 
-:----:
+````markdown
+Portfolio repository of my professional career in IT
+````
+
+<p align="center" dir="auto" style="max-width:100%;">
+    <img align="center" dir="auto" src="https://img.shields.io/badge/version-1.1-blue" width="85" style= "max-width: 100%;">
+    <img align="center" dir="auto" src="https://img.shields.io/badge/license-CC0_1.0-green" width="111" style="max-width: 100%;">
+    
+</p>
 
 ``` mermaid
 classDiagram
@@ -65,7 +72,7 @@ style Academic_History fill:#E0D475,stroke:#103,stroke-width:6px
 
 ```
 ------------
-# 📚Showcase of skills 
+## 📚Showcase of skills 
 ``` mermaid
 journey
     title My Skills in Bars📊
@@ -84,7 +91,7 @@ journey
         Spanish: 5: Intermediate
 ```
 ----
-# 🥧Soft Skills Pie
+## 🥧Soft Skills Pie
 ```mermaid
 pie title Soft Skills
     "Mentorship" : 2000
@@ -95,10 +102,11 @@ pie title Soft Skills
     "Goal Setting" : 2000
     "Clear and Concise Expression" : 2000 
 ```
-# Contact info 📧
+## Contact info 📧
 
-📞 (27) 98833-4250
-
-📩 brenomgoulart@hotmail.com
-
-🤖**Resume_Build V1.1**
+<p dir="auto" style="max-width:100%;">
+    <img drc="auto" src="https://cdn-icons-png.flaticon.com/512/12588/12588654.png" width="30" style="max-width: 100%;"> brenomgoulart@hotmail.com
+</p>
+<p>
+     <img drc="auto" src="https://cdn-icons-png.flaticon.com/512/3237/3237234.png" width="33" style="max-width: 100%;"> +55 (27) 9 8833-4250
+</p>
