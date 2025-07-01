@@ -1,10 +1,10 @@
 # 🌊Resume in Flow chart.
 ````markdown
-Portfolio repository of my professional career in IT
+Resume of my work past experiences.
 ````
 
 <p align="center" dir="auto" style="max-width:100%;">
-    <img align="center" dir="auto" src="https://img.shields.io/badge/version-1.1-blue" width="85" style= "max-width: 100%;">
+    <img align="center" dir="auto" src="https://img.shields.io/badge/version-2.0-blue" width="85" style= "max-width: 100%;">
     <img align="center" dir="auto" src="https://img.shields.io/badge/license-CC0_1.0-green" width="111" style="max-width: 100%;">
     
 </p>
@@ -71,42 +71,3 @@ style IDEKnowledge fill:#E0D475,stroke:#103,stroke-width:6px
 style Academic_History fill:#E0D475,stroke:#103,stroke-width:6px
 
 ```
-------------
-## 📚Showcase of skills 
-``` mermaid
-journey
-    title My Skills in Bars📊
-     section Back-End Skills🧠
-      Java: 6: Intermediate
-      Spring Boot: 4: Beginner 
-      Python: 4 : Beginner
-      C++: 3: Beginner
-    section Front-End Skills💻
-      HTML: 4: Beginner
-      CSS: 3: Beginner
-      Java Script: 4: Beginner
-    section Languages📖
-        Portuguese:7 : Fluent
-        English: 7 : Fluent
-        Spanish: 5: Intermediate
-```
-----
-## 🥧Soft Skills Pie
-```mermaid
-pie title Soft Skills
-    "Mentorship" : 2000
-    "Documentation Skills" : 2000
-    "Decision Making" : 2000
-    "Problem Solving" : 2000
-    "Stress Management" : 2000
-    "Goal Setting" : 2000
-    "Clear and Concise Expression" : 2000 
-```
-## Contact info 📧
-
-<p dir="auto" style="max-width:100%;">
-    <img drc="auto" src="https://cdn-icons-png.flaticon.com/512/12588/12588654.png" width="30" style="max-width: 100%;"> brenomgoulart@hotmail.com
-</p>
-<p>
-     <img drc="auto" src="https://cdn-icons-png.flaticon.com/512/3237/3237234.png" width="33" style="max-width: 100%;"> +55 (27) 9 8833-4250
-</p>
